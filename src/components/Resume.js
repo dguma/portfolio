@@ -121,7 +121,7 @@ const Resume = () => {
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2013
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -132,24 +132,24 @@ const Resume = () => {
             web design
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Team Treehouse
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            I have used learning resources that this company released surrounding modern 
+            technology to create and maintain web applications. Furthering my,
+            knowledge beyond this company has allowed me to understand industry standards
+            and the theory to work and produce functional web apps.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2014
+          2020
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -157,27 +157,28 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            html & css
+            Front End Development
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Team Treehouse Tech Degree
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            To solidify my understanding of the concept of web design. I have decided to 
+            further my education by learning the Frontend side of web development. 
+            Dedicating over 200+ hours, I had filled in the gaps to build more complex 
+            web applications. At this stage, I have grasped the concept of business logic 
+            using JavaScipt to control how the site will function.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2015
+          2021
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -185,48 +186,22 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Fullstack Javascript
+            Fullstack Software Engineering
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            General Assembly Immersive
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
-          </Typography>
-        </Box>
-        <Typography
-          variant="h2"
-          className={`${classes.timeLineYear} ${classes.timeLineItem}`}
-        >
-          2017
-        </Typography>
-        <Box component="div" className={classes.timeLineItem}>
-          <Typography
-            variant="h5"
-            align="center"
-            className={classes.subHeading}
-          >
-            Django & React
-          </Typography>
-          <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
-          </Typography>
-          <Typography
-            variant="subtitle1"
-            align="center"
-            className={classes.subtitle1}
-          >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            At this point in my learning journey, I have decided to further my education to 
+            understand the backend technologies to have a fully functional web application. 
+            Working remotely from home, I have worked in teams and broke through challenging problems. 
+            Dedicating over 400+ hours, I have successfully built web applications surrounding the 
+            most used technologies and frameworks. These technologies include 
+            React Js, Express Js, Django, JavaScript, and Python.
           </Typography>
         </Box>
       </Box>
